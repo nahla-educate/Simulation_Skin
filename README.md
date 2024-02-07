@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to our project! We are focused on enhancing user interaction in virtual environments by integrating haptic feedback. Our goal is to enable users to experience tactile sensations when interacting with virtual elements, such as feeling skin texture, resistance to touch, or other specific tactile properties. Leveraging a physics engine, we simulate deformable surfaces to provide realistic feedback to users. Our development platform of choice for this project is Unity.
+Welcome to our project! We are focused on enhancing user interaction in virtual environments by integrating haptic feedback. Our goal is to enable users to experience tactile sensations when interacting with virtual elements, such as feeling skin texture, resistance to touch, or other specific tactile properties. Leveraging a physics engine, we simulate deformable surfaces to provide realistic feedback to users.
 
 ## Objective
 
